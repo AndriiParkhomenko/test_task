@@ -1,0 +1,28 @@
+.quote-container {
+	position: relative;
+}
+
+.quote-body {
+	width: 50%;
+	margin: 2rem auto;
+	font-size: 1.1rem;
+}
+
+.quote-content {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.quote-img{
+	position: absolute;
+	top: -15%;
+	right: 5%;
+	height: 4rem;
+
+}
+
+.quote-author{
+	font-weight: bold;
+	color: #0022ff;
+}
